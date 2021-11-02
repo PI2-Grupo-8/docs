@@ -1,6 +1,7 @@
 # Grupo 8 - StrongBerry
+Vídeo propaganda:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/j-bdUnaeUbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/j-bdUnaeUbI/0.jpg)](https://www.youtube.com/watch?v=j-bdUnaeUbI)
 
 ## O Projeto
 
