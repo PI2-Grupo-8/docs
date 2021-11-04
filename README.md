@@ -16,11 +16,18 @@ O pequeno veículo elétrico será guiado por entre as fileiras de lavoura, iden
 
 O projeto utiliza de diversos repositórios nessa organização. Sendo eles:
 
+- [Documentação](https://github.com/PI2-Grupo-8/docs) - Documentação das entregas do projeto.
+- [Manuais do StrongBerry](https://github.com/PI2-Grupo-8/Manuais-do-StrongBerry) - Manuais desenvolvidos.
+- [Energia](https://github.com/PI2-Grupo-8/Energia) - Documentação da frente de Energia.
+- [Estruturas](https://github.com/PI2-Grupo-8/Estruturas) - Documentação da frente de Estrutura.
 - [Frontend](https://github.com/PI2-Grupo-8/frontend) - Frontend web da aplicação, desenvolvido em React JS.
-- [Sensors Data API](https://github.com/PI2-Grupo-8/sensors-data-api) - Microsserviço de dados dos sensores e alertas do veículo, desenvolvido em Node JS.
-- [Vehicle API](https://github.com/PI2-Grupo-8/vehicle-api) - Microsserviço de veículos, desenvolvido em Node JS.
-- [User API](https://github.com/PI2-Grupo-8/user-api) - Microsserviço de usuário e autenticação do sistema, desenvolvido em Node JS.
-- [Sistema Embarcado](https://github.com/PI2-Grupo-8/sistema-embarcado) - Sistema embarcado no veículo, desenvolvido em C.
+- [API de dados dos sensores](https://github.com/PI2-Grupo-8/sensors-data-api) - Microsserviço de dados dos sensores e alertas do veículo, desenvolvido em Node JS.
+- [API de veículos](https://github.com/PI2-Grupo-8/vehicle-api) - Microsserviço de veículos, desenvolvido em Node JS.
+- [API de usuários](https://github.com/PI2-Grupo-8/user-api) - Microsserviço de usuário e autenticação do sistema, desenvolvido em Node JS.
+- [Gateway](https://github.com/PI2-Grupo-8/gateway) - Componente de gateway para comunicação das APIs com o veículo, desenvolvido em C.
+- [Sistema Embarcado](https://github.com/PI2-Grupo-8/sistema-embarcado) - Sistemas embarcados no veículo, desenvolvidos em C e Python.
+
+
 
 ## Divisão das atividades do projeto
 
